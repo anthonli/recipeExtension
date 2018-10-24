@@ -1,0 +1,2265 @@
+[
+  {
+    "food_id": "tomatosalsa0",
+    "derived_food_item": "tomato salsa",
+    "products": [
+      {
+        "id": "20659916_EA",
+        "productName": "Chunky Pico De Gallo Salsa",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20659916/b1/en/front/20659916_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.49
+      },
+      {
+        "id": "20959575_EA",
+        "productName": "Pico De Gallo Mild Salsa",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20959575/b1/en/front/20959575_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20005283_EA",
+        "productName": "Salsa Con Queso Cheese Dip",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20005283/b1/en/front/20005283_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20318615008_EA",
+        "productName": "Accents Diced Stewed Tomatoes, Chili Seasonings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20318615008/b1/en/front/20318615008_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.19
+      },
+      {
+        "id": "20046308_KG",
+        "productName": "Pacific Snapper Fillet",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20046308/b1/en/front/20046308_front_a01.png",
+        "baseUnit": "ea",
+        "price": 14.8
+      },
+      {
+        "id": "20077978_KG",
+        "productName": "Fresh Snapper, Whole",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20077978/b1/en/front/20077978_front_a01.png",
+        "baseUnit": "ea",
+        "price": 18.33
+      },
+      {
+        "id": "20295845002_EA",
+        "productName": "Fajita Dinner Kit",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20295845002/b1/en/front/20295845002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.88
+      },
+      {
+        "id": "20320152_EA",
+        "productName": "Taco Kit",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20320152/b1/en/front/20320152_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.88
+      }
+    ]
+  },
+  {
+    "food_id": "onions1",
+    "derived_food_item": "onions",
+    "products": [
+      {
+        "id": "20107532_EA",
+        "productName": "Cooking Onions",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20107532/b1/en/front/20107532_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20603423001_EA",
+        "productName": "Organic Green Onions",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20603423001/b1/en/front/20603423001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "21083917001_EA",
+        "productName": "Pearl Onion",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21083917001/b1/en/front/21083917001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20156348001_EA",
+        "productName": "Onion Bulb, Bunch",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20156348001/b1/en/front/20156348001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20939693_EA",
+        "productName": "Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20939693/b1/en/front/20939693_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20962096_EA",
+        "productName": "Restaurant Style Crunchy Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20962096/b1/en/front/20962096_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20323883001_EA",
+        "productName": "Dip, Onion",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323883001/b1/en/front/20323883001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.29
+      },
+      {
+        "id": "20064193_EA",
+        "productName": "Onion Powder",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20064193/b1/en/front/20064193_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.94
+      },
+      {
+        "id": "20298697_EA",
+        "productName": "Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20298697/b1/en/front/20298697_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.49
+      }
+    ]
+  },
+  {
+    "food_id": "cheesybacon-sausage-egg2",
+    "derived_food_item": "Cheesy Bacon-Sausage-Egg",
+    "products": [
+      {
+        "id": "20219758_EA",
+        "productName": "Extra Cheesy Macaroni & Cheese",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20219758/b1/en/front/20219758_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20856435_EA",
+        "productName": "SauceSations Chicken & Turkey Dinner in Cheesy Sauce Cat Food",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20856435/b1/en/front/20856435_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.79
+      },
+      {
+        "id": "20850856_EA",
+        "productName": "Crispy Minis Rice Chips, Tortilla - Cheesy Nacho",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20850856/b1/en/front/20850856_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "21011746001_EA",
+        "productName": "Cat Concoctions with Cod in Cheesy Bacon Flavoured Sauce Cat Food",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21011746001/b1/en/front/21011746001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.79
+      },
+      {
+        "id": "20983498_EA",
+        "productName": "Bag of Bones Cheese Flavoured Snacks, White Cheddar",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20983498/b1/en/front/20983498_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20322677_EA",
+        "productName": "Cheese Twists",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20322677/b1/en/front/20322677_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.69
+      },
+      {
+        "id": "20322350001_EA",
+        "productName": "Crustini, Turkey Bacon Club",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20322350001/b1/en/front/20322350001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20797380004_EA",
+        "productName": "Tortilla Chips, Nacho Cheese",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20797380004/b1/en/front/20797380004_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.69
+      },
+      {
+        "id": "20972847_EA",
+        "productName": "Tortilla Chips, Nacho Cheese",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20972847/b1/en/front/20972847_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.79
+      }
+    ]
+  },
+  {
+    "food_id": "greenonions4",
+    "derived_food_item": "green onions",
+    "products": [
+      {
+        "id": "20301227002_EA",
+        "productName": "Green Tomato Chow Chow",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20301227002/b1/en/front/20301227002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "20290963_EA",
+        "productName": "Rainbow Mix Red, Golden & Candy Cane Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20290963/b1/en/front/20290963_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20020368001_EA",
+        "productName": "Curly Endive",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20020368001/b1/en/front/20020368001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20082109001_KG",
+        "productName": "Lo Bok",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20082109001/b1/en/front/20082109001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.67
+      },
+      {
+        "id": "21003860_EA",
+        "productName": "Green Lentil And Curry Ready-To-Serve Soup",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21003860/b1/en/front/21003860_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20143101001_EA",
+        "productName": "Watercress",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20143101001/b1/en/front/20143101001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20852960_EA",
+        "productName": "Pizza, Ultimate Bacon",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20852960/b1/en/front/20852960_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.49
+      },
+      {
+        "id": "20296014002_EA",
+        "productName": "Hungry Man Salisbury Steak",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20296014002/b1/en/front/20296014002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.29
+      },
+      {
+        "id": "20065358002_EA",
+        "productName": "Tomato Olive Bruschetta Topping",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20065358002/b1/en/front/20065358002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "food_id": "carrots5",
+    "derived_food_item": "carrots",
+    "products": [
+      {
+        "id": "20053421_EA",
+        "productName": "Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20053421/b1/en/front/20053421_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20117370001_EA",
+        "productName": "Mini Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20117370001/b1/en/front/20117370001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20031454001_EA",
+        "productName": "Mini Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20031454001/b1/en/front/20031454001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20185409_EA",
+        "productName": "Baby-Cut Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20185409/b1/en/front/20185409_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20628932001_EA",
+        "productName": "Baby-Cut Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20628932001/b1/en/front/20628932001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "20885999_EA",
+        "productName": "Carrot Chips",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20885999/b1/en/front/20885999_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20908098001_EA",
+        "productName": "Organic Rainbow Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20908098001/b1/en/front/20908098001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20964578001_EA",
+        "productName": "Organic Rainbow Carrot",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20964578001/b1/en/front/20964578001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20600927001_EA",
+        "productName": "Carrots",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20600927001/b1/en/front/20600927001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "food_id": "egg7",
+    "derived_food_item": "egg",
+    "products": [
+      {
+        "id": "20984142001_EA",
+        "productName": "Whole Eggs with Vegetables and Feta",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20984142001/b1/en/front/20984142001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20984146001_EA",
+        "productName": "Whole Eggs, Mushroom & Spinach",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20984146001/b1/en/front/20984146001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20813961001_EA",
+        "productName": "Blue Menu Omega 3 White Eggs",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20813961001/b1/en/front/20813961001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20818960001_EA",
+        "productName": "Organic Free Run Brown Eggs, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20818960001/b1/en/front/20818960001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.19
+      },
+      {
+        "id": "20307610001_EA",
+        "productName": "Mini Eggs",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20307610001/b1/en/front/20307610001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20820351001_EA",
+        "productName": "Egg Whites",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20820351001/b1/en/front/20820351001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20820355001_EA",
+        "productName": "Simply Egg Whites",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20820355001/b1/en/front/20820355001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20820130001_EA",
+        "productName": "Free Run Egg Whites",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20820130001/b1/en/front/20820130001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.49
+      },
+      {
+        "id": "20815566001_EA",
+        "productName": "Free Run Eggs, Large",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20815566001/b1/en/front/20815566001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.29
+      }
+    ]
+  },
+  {
+    "food_id": "recipes8",
+    "derived_food_item": "recipes",
+    "products": [
+      {
+        "id": "20564224001_EA",
+        "productName": "Dog Joy Treats, Real Chicken Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20564224001/b1/en/front/20564224001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20308188006_EA",
+        "productName": "Recipe Onion Roasted Garlic Soup Mix",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20308188006/b1/en/front/20308188006_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.49
+      },
+      {
+        "id": "20307526004_EA",
+        "productName": "Salad Dressing, Family Recipe Italian",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20307526004/b1/en/front/20307526004_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20426541_EA",
+        "productName": "Duck & Sweet Potato Recipe Twists",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20426541/b1/en/front/20426541_front_a01.png",
+        "baseUnit": "ea",
+        "price": 14.99
+      },
+      {
+        "id": "21109353_EA",
+        "productName": "Smoked Shorty Sausages Original Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21109353/b1/en/front/21109353_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "21081811_EA",
+        "productName": "Golden Island Pork Jerky Korean Barbecue Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21081811/b1/en/front/21081811_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.49
+      },
+      {
+        "id": "20972849_EA",
+        "productName": "Kettle Cooked Potato Chips, Original Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20972849/b1/en/front/20972849_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20301951001_EA",
+        "productName": "Kettle Cooked Potato Chips, Original Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20301951001/b1/en/front/20301951001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20757152_EA",
+        "productName": "Kettle Cooked Potato Chips, Reduced Fat Original Recipe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20757152/b1/en/front/20757152_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "food_id": "water10",
+    "derived_food_item": "water",
+    "products": [
+      {
+        "id": "20797191_EA",
+        "productName": "Distilled Water",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20797191/b1/en/front/20797191_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.49
+      },
+      {
+        "id": "20664782001_C10",
+        "productName": "Carbonated Natural Spring Water, Slim Cans (Case)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20664782001/b1/en/front/20664782001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20664782003_C10",
+        "productName": "Carbonated Natural Spring Water, Slim Cans, Lime (Case)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20664782003/b1/en/front/20664782003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20664782002_C10",
+        "productName": "Carbonated Natural Spring Water, Slim Cans, Pink Grapefruit (Case)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20664782002/b1/en/front/20664782002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20668034003_C01",
+        "productName": "Mandarin Orange Sparkling Water With Natural Flavour",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20668034003/b1/en/front/20668034003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20668034002_C01",
+        "productName": "Blue Menu Sparkling Water, Lime (Case)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20668034002/b1/en/front/20668034002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20668034001_C01",
+        "productName": "Lemon Sparkling Water With Natural Flavour",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20668034001/b1/en/front/20668034001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20060696_C24",
+        "productName": "Pure Life Natural Spring Water (Case)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20060696/b1/en/front/20060696_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20960196_EA",
+        "productName": "Boxed Water",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20960196/b1/en/front/20960196_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "food_id": "beef11",
+    "derived_food_item": "beef",
+    "products": [
+      {
+        "id": "20702919_KG",
+        "productName": "Stewing Beef",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20702919/b1/en/front/20702919_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.1
+      },
+      {
+        "id": "20811058_KG",
+        "productName": "Beef Marrow Soup Bones",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20811058/b1/en/front/20811058_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.4
+      },
+      {
+        "id": "20683262_KG",
+        "productName": "Lean Ground Beef & Pork, Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20683262/b1/en/front/20683262_front_a01.png",
+        "baseUnit": "ea",
+        "price": 18.43
+      },
+      {
+        "id": "20357711_KG",
+        "productName": "Extra Lean Ground Beef, Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20357711/b1/en/front/20357711_front_a01.png",
+        "baseUnit": "ea",
+        "price": 20.87
+      },
+      {
+        "id": "20357568_KG",
+        "productName": "Medium Ground Beef",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20357568/b1/en/front/20357568_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.69
+      },
+      {
+        "id": "20699383_EA",
+        "productName": "Extra Lean Ground Beef, Tube",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20699383/b1/en/front/20699383_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.0
+      },
+      {
+        "id": "20798132_KG",
+        "productName": "Beef Back Ribs",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20798132/b1/en/front/20798132_front_a01.png",
+        "baseUnit": "ea",
+        "price": 15.41
+      },
+      {
+        "id": "20357787_KG",
+        "productName": "Lean Ground Beef, Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20357787/b1/en/front/20357787_front_a01.png",
+        "baseUnit": "ea",
+        "price": 22.28
+      },
+      {
+        "id": "20794221_KG",
+        "productName": "Platinum Beef Tenderloin Oven Roast",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20794221/b1/en/front/20794221_front_a01.png",
+        "baseUnit": "ea",
+        "price": 49.35
+      }
+    ]
+  },
+  {
+    "food_id": "blackpepper13",
+    "derived_food_item": "black pepper",
+    "products": [
+      {
+        "id": "21000355_EA",
+        "productName": "Hot Cherry Peppers Whole Peppers In Oil",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21000355/b1/en/front/21000355_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.69
+      },
+      {
+        "id": "20795103_EA",
+        "productName": "Chipotle Infused Extra Virgin Olive Oil",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20795103/b1/en/front/20795103_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20312472002_EA",
+        "productName": "Shredded Cheese, Tacos & Nachos",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20312472002/b1/en/front/20312472002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20664632_KG",
+        "productName": "Black Pepper Pistachio",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20664632/b1/en/front/20664632_front_a01.png",
+        "baseUnit": "g",
+        "price": 1.84
+      },
+      {
+        "id": "20772092_EA",
+        "productName": "Fresh Ground Black Pepper",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20772092/b1/en/front/20772092_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20987338_EA",
+        "productName": "Popcorn, Sea Salt & Black Pepper",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20987338/b1/en/front/20987338_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.19
+      },
+      {
+        "id": "20618775_EA",
+        "productName": "Black Peppercorns",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20618775/b1/en/front/20618775_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20316727003_EA",
+        "productName": "Organic Black Pepper",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20316727003/b1/en/front/20316727003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20501554_EA",
+        "productName": "Apricot & Rosemary Artisan Crisps",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20501554/b1/en/front/20501554_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.29
+      }
+    ]
+  },
+  {
+    "food_id": "roastbeef15",
+    "derived_food_item": "roast beef",
+    "products": [
+      {
+        "id": "20357622_KG",
+        "productName": "Free From Stewing Beef",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20357622/b1/en/front/20357622_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.71
+      },
+      {
+        "id": "20732131_EA",
+        "productName": "Beef Pot Roast",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20732131/b1/en/front/20732131_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20867843_EA",
+        "productName": "Roast Beef, Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20867843/b1/en/front/20867843_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.0
+      },
+      {
+        "id": "20867687_EA",
+        "productName": "Roast Beef",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20867687/b1/en/front/20867687_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.0
+      },
+      {
+        "id": "20034795_KG",
+        "productName": "Beef Brisket",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20034795/b1/en/front/20034795_front_a01.png",
+        "baseUnit": "ea",
+        "price": 18.74
+      },
+      {
+        "id": "20974528_KG",
+        "productName": "Eye Of Round Steak",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20974528/b1/en/front/20974528_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.53
+      },
+      {
+        "id": "20974529_KG",
+        "productName": "Eye Of Round Steak, Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20974529/b1/en/front/20974529_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.75
+      },
+      {
+        "id": "20702154_KG",
+        "productName": "Inside Round Sandwich Steak",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20702154/b1/en/front/20702154_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.29
+      },
+      {
+        "id": "21018663_KG",
+        "productName": "Eye Of Round Steak, Fast Fry",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21018663/b1/en/front/21018663_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.07
+      }
+    ]
+  },
+  {
+    "food_id": "pepper16",
+    "derived_food_item": "pepper",
+    "products": [
+      {
+        "id": "20086362001_KG",
+        "productName": "Red Shepherd Peppers",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20086362001/b1/en/front/20086362001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.42
+      },
+      {
+        "id": "20141814001_KG",
+        "productName": "Greenhouse Peppers, Yellow",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20141814001/b1/en/front/20141814001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.75
+      },
+      {
+        "id": "20166880001_KG",
+        "productName": "Greenhouse Peppers, Orange",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20166880001/b1/en/front/20166880001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.64
+      },
+      {
+        "id": "20164047001_KG",
+        "productName": "Organic Red Peppers",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20164047001/b1/en/front/20164047001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.75
+      },
+      {
+        "id": "20025485001_KG",
+        "productName": "Scotch Bonnet Peppers",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20025485001/b1/en/front/20025485001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.4
+      },
+      {
+        "id": "20732361001_EA",
+        "productName": "Red Hot Thai Chili Peppers",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20732361001/b1/en/front/20732361001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20088387001_KG",
+        "productName": "Jalapeno Peppers",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20088387001/b1/en/front/20088387001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.55
+      },
+      {
+        "id": "20359116001_EA",
+        "productName": "Dr Pepper Soda",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20359116001/b1/en/front/20359116001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.29
+      },
+      {
+        "id": "20056206001_EA",
+        "productName": "Dr Pepper Soda",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20056206001/b1/en/front/20056206001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      }
+    ]
+  },
+  {
+    "food_id": "fat17",
+    "derived_food_item": "fat",
+    "products": [
+      {
+        "id": "20301064009_EA",
+        "productName": "Baking Mix, Low Fat Banana Muffin",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20301064009/b1/en/front/20301064009_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20301064010_EA",
+        "productName": "Baking Mix, Low Fat Carrot Muffin",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20301064010/b1/en/front/20301064010_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20297246007_EA",
+        "productName": "Cream of Chicken Soup, Low Fat",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297246007/b1/en/front/20297246007_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.39
+      },
+      {
+        "id": "20297246008_EA",
+        "productName": "Cream of Celery Soup, Low Fat",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297246008/b1/en/front/20297246008_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.39
+      },
+      {
+        "id": "20297246001_EA",
+        "productName": "Cream Of Mushroom, Low Fat",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297246001/b1/en/front/20297246001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.39
+      },
+      {
+        "id": "20297246009_EA",
+        "productName": "Cream of Broccoli Soup, Low Fat",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297246009/b1/en/front/20297246009_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.39
+      },
+      {
+        "id": "20040338003_EA",
+        "productName": "Sour Cream, Fat Free 0%",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20040338003/b1/en/front/20040338003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20304150005_EA",
+        "productName": "Instant Pudding, White Chocolate Fat Free",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20304150005/b1/en/front/20304150005_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.49
+      },
+      {
+        "id": "20650653_EA",
+        "productName": "Fat Free Creamer",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20650653/b1/en/front/20650653_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.89
+      }
+    ]
+  },
+  {
+    "food_id": "salsa18",
+    "derived_food_item": "salsa",
+    "products": [
+      {
+        "id": "20673717_EA",
+        "productName": "Salsa, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20673717/b1/en/front/20673717_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.33
+      },
+      {
+        "id": "20088698002_EA",
+        "productName": "Salsa, Mild",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20088698002/b1/en/front/20088698002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20088698001_EA",
+        "productName": "Salsa, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20088698001/b1/en/front/20088698001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20323181003_EA",
+        "productName": "Salsa, Hot",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323181003/b1/en/front/20323181003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20307531002_EA",
+        "productName": "Salsa, Thick Chunky Mild",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20307531002/b1/en/front/20307531002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "20300888_EA",
+        "productName": "Salsa, Mango & Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20300888/b1/en/front/20300888_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "21004914_EA",
+        "productName": "Salsa Pineapple, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21004914/b1/en/front/21004914_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20213517001_EA",
+        "productName": "Restaurante Salsa, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20213517001/b1/en/front/20213517001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20707309002_EA",
+        "productName": "Mango Salsa, Medium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20707309002/b1/en/front/20707309002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "food_id": "cabbage19",
+    "derived_food_item": "cabbage",
+    "products": [
+      {
+        "id": "20297974_EA",
+        "productName": "Cabbage Rolls, Frozen Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297974/b1/en/front/20297974_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "20162361001_EA",
+        "productName": "Orange Cauliflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20162361001/b1/en/front/20162361001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "21098393001_KG",
+        "productName": "Organic Broccoli Crowns",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21098393001/b1/en/front/21098393001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.92
+      },
+      {
+        "id": "20122906001_EA",
+        "productName": "Purple Cauliflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20122906001/b1/en/front/20122906001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20036455001_EA",
+        "productName": "Broccoflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20036455001/b1/en/front/20036455001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20154907_EA",
+        "productName": "Broccolini",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20154907/b1/en/front/20154907_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20668528_EA",
+        "productName": "Organic Brussel Sprouts",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20668528/b1/en/front/20668528_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.99
+      },
+      {
+        "id": "20036155001_KG",
+        "productName": "Brussels Sprouts (Sold in Singles)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20036155001/b1/en/front/20036155001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.2
+      },
+      {
+        "id": "20095057001_KG",
+        "productName": "Bok Choy",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20095057001/b1/en/front/20095057001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.51
+      }
+    ]
+  },
+  {
+    "food_id": "breakfast20",
+    "derived_food_item": "breakfast",
+    "products": [
+      {
+        "id": "20126567001_EA",
+        "productName": "Rice Krisipes Squares Bars, Original 8 bars",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20126567001/b1/en/front/20126567001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20647435002_EA",
+        "productName": "Mini-Wheats Cereal, Original, Family Size",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20647435002/b1/en/front/20647435002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20309831001_EA",
+        "productName": "Breakfast Essentials, Breakfast Drink Mix, Chocolate",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20309831001/b1/en/front/20309831001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "20848835002_EA",
+        "productName": "All-Bran Breakfast Bars, Chocolate Chip",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20848835002/b1/en/front/20848835002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20848835004_EA",
+        "productName": "All-Bran Breakfast Bars, Orange Cranberry",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20848835004/b1/en/front/20848835004_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20848835003_EA",
+        "productName": "All-Bran Breakfast Bars, Honey Nut",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20848835003/b1/en/front/20848835003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "21104783_EA",
+        "productName": "Breakfast Oat Bites, Dark Chocolate & Coconut",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21104783/b1/en/front/21104783_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.59
+      },
+      {
+        "id": "21104784_EA",
+        "productName": "Breakfast Oat Bites, Apple & Cinnamon",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21104784/b1/en/front/21104784_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.59
+      },
+      {
+        "id": "20785866_EA",
+        "productName": "Ham and Swiss Breakfast Croissant",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20785866/b1/en/front/20785866_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      }
+    ]
+  },
+  {
+    "food_id": "ingredients23",
+    "derived_food_item": "Ingredients",
+    "products": [
+      {
+        "id": "20145663_EA",
+        "productName": "Premium Artificial Vanilla Extract",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20145663/b1/en/front/20145663_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.49
+      },
+      {
+        "id": "21084916_EA",
+        "productName": "Stevia Packet",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21084916/b1/en/front/21084916_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.49
+      },
+      {
+        "id": "20011473_EA",
+        "productName": "The Decadent Semi Sweet Chocolate Chips    ",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20011473/b1/en/front/20011473_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.59
+      },
+      {
+        "id": "20115065_EA",
+        "productName": "All-Vegetable Shortening Sticks",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20115065/b1/en/front/20115065_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "20707391_EA",
+        "productName": "Sweet 'n Low Sweetener",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20707391/b1/en/front/20707391_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20316019002_EA",
+        "productName": "Baker's Unsweetened Chocolate Squares",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20316019002/b1/en/front/20316019002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "21024184_EA",
+        "productName": "Ancient Grains & Super Seeds Blend",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21024184/b1/en/front/21024184_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "21068412_EA",
+        "productName": "Cookies N' CrÃ¨me",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21068412/b1/en/front/21068412_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20430272_EA",
+        "productName": "The Decadent, Milk Chocolate Chips",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20430272/b1/en/front/20430272_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.59
+      }
+    ]
+  },
+  {
+    "food_id": "lime25",
+    "derived_food_item": "Lime",
+    "products": [
+      {
+        "id": "21038767_EA",
+        "productName": "Raspberry Lime Sorbetto",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21038767/b1/en/front/21038767_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.69
+      },
+      {
+        "id": "21074824_EA",
+        "productName": "Avocado Lime Dressing",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21074824/b1/en/front/21074824_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.79
+      },
+      {
+        "id": "21096643_EA",
+        "productName": "Carbonated Water, Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21096643/b1/en/front/21096643_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.29
+      },
+      {
+        "id": "21096811_EA",
+        "productName": "Pepsi with Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21096811/b1/en/front/21096811_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "21064955_EA",
+        "productName": "Pure Lime Juice",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21064955/b1/en/front/21064955_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "21012428_EA",
+        "productName": "Sparkling Water, Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21012428/b1/en/front/21012428_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.79
+      },
+      {
+        "id": "21012160_EA",
+        "productName": "Energy Water, Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21012160/b1/en/front/21012160_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.29
+      },
+      {
+        "id": "20311929_EA",
+        "productName": "Drink Mix, Lemon Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20311929/b1/en/front/20311929_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "21004298_EA",
+        "productName": "Ultra Fusion, Lime",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21004298/b1/en/front/21004298_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "food_id": "beets26",
+    "derived_food_item": "beets",
+    "products": [
+      {
+        "id": "20874370_EA",
+        "productName": "Drop'n Mad Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20874370/b1/en/front/20874370_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20961966_EA",
+        "productName": "Beet Slaw",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20961966/b1/en/front/20961966_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.89
+      },
+      {
+        "id": "20323479003_EA",
+        "productName": "Whole Rosebud Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323479003/b1/en/front/20323479003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20632170_EA",
+        "productName": "Sliced Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20632170/b1/en/front/20632170_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.19
+      },
+      {
+        "id": "21006973_EA",
+        "productName": "Beet Veggie Noodles",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21006973/b1/en/front/21006973_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20170566_EA",
+        "productName": "Whole Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20170566/b1/en/front/20170566_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.19
+      },
+      {
+        "id": "20323479001_EA",
+        "productName": "Sliced Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323479001/b1/en/front/20323479001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20774280_EA",
+        "productName": "Beet Horseradish",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20774280/b1/en/front/20774280_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.29
+      },
+      {
+        "id": "20170114_EA",
+        "productName": "Pickled Whole Baby Beets",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20170114/b1/en/front/20170114_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "food_id": "skillet27",
+    "derived_food_item": "Skillet",
+    "products": [
+      {
+        "id": "20745433_EA",
+        "productName": "Family Sized Skillet Meals , Cheesy Chicken",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20745433/b1/en/front/20745433_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "21004538_EA",
+        "productName": "Chicken Stir Fry Skillet Meals",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21004538/b1/en/front/21004538_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "20728251_EA",
+        "productName": "8\" Non-Stick Ceramic Skillet    ",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20728251/b1/en/front/20728251_front_a01.png",
+        "baseUnit": "ea",
+        "price": 16.99
+      },
+      {
+        "id": "20065711_EA",
+        "productName": "Non-Stick Skillet, 12 in",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20065711/b1/en/front/20065711_front_a01.png",
+        "baseUnit": "ea",
+        "price": 27.99
+      },
+      {
+        "id": "20745335_EA",
+        "productName": "Skillet Meals, Family Size Alfredo Chicken",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20745335/b1/en/front/20745335_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "20347313_EA",
+        "productName": "Non-Stick Skillet Combo, Black",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20347313/b1/en/front/20347313_front_a01.png",
+        "baseUnit": "ea",
+        "price": 21.99
+      },
+      {
+        "id": "21030395_EA",
+        "productName": "Cast Iron Skillet, Round, 12\"",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21030395/b1/en/front/21030395_front_a01.png",
+        "baseUnit": "ea",
+        "price": 29.99
+      },
+      {
+        "id": "20985137_EA",
+        "productName": "Ceramic Non Stick Skillet",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20985137/b1/en/front/20985137_front_a01.png",
+        "baseUnit": "ea",
+        "price": 19.99
+      },
+      {
+        "id": "20749837_EA",
+        "productName": "10\" Non-Stick Skillet",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20749837/b1/en/front/20749837_front_a01.png",
+        "baseUnit": "ea",
+        "price": 16.99
+      }
+    ]
+  },
+  {
+    "food_id": "garlic28",
+    "derived_food_item": "garlic",
+    "products": [
+      {
+        "id": "20180051_EA",
+        "productName": "Heirloom Ontario Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20180051/b1/en/front/20180051_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "21020061_EA",
+        "productName": "Garlic Bread",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21020061/b1/en/front/21020061_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.5
+      },
+      {
+        "id": "20772311_EA",
+        "productName": "Garlic Powder",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20772311/b1/en/front/20772311_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20628128_EA",
+        "productName": "Minced Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20628128/b1/en/front/20628128_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.24
+      },
+      {
+        "id": "20024768_EA",
+        "productName": "Garlic Powder",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20024768/b1/en/front/20024768_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.14
+      },
+      {
+        "id": "20936232_EA",
+        "productName": "Minced Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20936232/b1/en/front/20936232_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "21090047_EA",
+        "productName": "Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21090047/b1/en/front/21090047_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "20631894_EA",
+        "productName": "Garlic, Minced",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20631894/b1/en/front/20631894_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.94
+      },
+      {
+        "id": "20058232001_EA",
+        "productName": "Bean Sprouts",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20058232001/b1/en/front/20058232001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "food_id": "onion29",
+    "derived_food_item": "onion",
+    "products": [
+      {
+        "id": "20107532_EA",
+        "productName": "Cooking Onions",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20107532/b1/en/front/20107532_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "20603423001_EA",
+        "productName": "Organic Green Onions",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20603423001/b1/en/front/20603423001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "21083917001_EA",
+        "productName": "Pearl Onion",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21083917001/b1/en/front/21083917001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20156348001_EA",
+        "productName": "Onion Bulb, Bunch",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20156348001/b1/en/front/20156348001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20939693_EA",
+        "productName": "Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20939693/b1/en/front/20939693_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20962096_EA",
+        "productName": "Restaurant Style Crunchy Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20962096/b1/en/front/20962096_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20323883001_EA",
+        "productName": "Dip, Onion",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323883001/b1/en/front/20323883001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.29
+      },
+      {
+        "id": "20064193_EA",
+        "productName": "Onion Powder",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20064193/b1/en/front/20064193_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.94
+      },
+      {
+        "id": "20170342_EA",
+        "productName": "Large Onion Rings",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20170342/b1/en/front/20170342_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      }
+    ]
+  },
+  {
+    "food_id": "spicygarlic30",
+    "derived_food_item": "Spicy Garlic",
+    "products": [
+      {
+        "id": "20179038001_KG",
+        "productName": "Ginger",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20179038001/b1/en/front/20179038001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.15
+      },
+      {
+        "id": "20296154_EA",
+        "productName": "Dry Pepperoni Sticks, Honey Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20296154/b1/en/front/20296154_front_a01.png",
+        "baseUnit": "ea",
+        "price": 11.99
+      },
+      {
+        "id": "20435436_EA",
+        "productName": "Organic Ginger",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20435436/b1/en/front/20435436_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20308726005_EA",
+        "productName": "Stir-Fry Sauce, General Tao",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20308726005/b1/en/front/20308726005_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20322926001_EA",
+        "productName": "Stir-Fry Sauce, Pad Thai",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20322926001/b1/en/front/20322926001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20300597003_EA",
+        "productName": "Rice Pilaf, Spanish Rice",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20300597003/b1/en/front/20300597003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20012522002_EA",
+        "productName": "Pasta Sauce, Fra Diavolo",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20012522002/b1/en/front/20012522002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.49
+      },
+      {
+        "id": "21049145_EA",
+        "productName": "Splendido Calabrese Salami",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21049145/b1/en/front/21049145_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.49
+      }
+    ]
+  },
+  {
+    "food_id": "cabbage31",
+    "derived_food_item": "Cabbage",
+    "products": [
+      {
+        "id": "20297974_EA",
+        "productName": "Cabbage Rolls, Frozen Club Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20297974/b1/en/front/20297974_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "20162361001_EA",
+        "productName": "Orange Cauliflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20162361001/b1/en/front/20162361001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "21098393001_KG",
+        "productName": "Organic Broccoli Crowns",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21098393001/b1/en/front/21098393001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.92
+      },
+      {
+        "id": "20122906001_EA",
+        "productName": "Purple Cauliflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20122906001/b1/en/front/20122906001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20036455001_EA",
+        "productName": "Broccoflower",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20036455001/b1/en/front/20036455001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20154907_EA",
+        "productName": "Broccolini",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20154907/b1/en/front/20154907_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20668528_EA",
+        "productName": "Organic Brussel Sprouts",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20668528/b1/en/front/20668528_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.99
+      },
+      {
+        "id": "20036155001_KG",
+        "productName": "Brussels Sprouts (Sold in Singles)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20036155001/b1/en/front/20036155001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.2
+      },
+      {
+        "id": "20095057001_KG",
+        "productName": "Bok Choy",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20095057001/b1/en/front/20095057001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.51
+      }
+    ]
+  },
+  {
+    "food_id": "butter32",
+    "derived_food_item": "butter",
+    "products": [
+      {
+        "id": "20148873002_EA",
+        "productName": "Butter Sticks, Unsalted",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20148873002/b1/en/front/20148873002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20109179_EA",
+        "productName": "My Country Butter, Unsalted",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20109179/b1/en/front/20109179_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.19
+      },
+      {
+        "id": "20148873001_EA",
+        "productName": "Butter Sticks, Salted",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20148873001/b1/en/front/20148873001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20313456002_EA",
+        "productName": "Fresh Churned Butter",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20313456002/b1/en/front/20313456002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20056675_EA",
+        "productName": "My Country Butter Sticks, Unsalted",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20056675/b1/en/front/20056675_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20313456001_EA",
+        "productName": "Butter, Fresh Unsalted Quarters",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20313456001/b1/en/front/20313456001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20119926002_EA",
+        "productName": "Spreadables, Regular",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20119926002/b1/en/front/20119926002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.59
+      },
+      {
+        "id": "20119926001_EA",
+        "productName": "Spreadables, Light",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20119926001/b1/en/front/20119926001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.59
+      },
+      {
+        "id": "20604565_EA",
+        "productName": "Celeb Margarine",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20604565/b1/en/front/20604565_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      }
+    ]
+  },
+  {
+    "food_id": "note33",
+    "derived_food_item": "note",
+    "products": [
+      {
+        "id": "20702300_EA",
+        "productName": "Breakfast Blend",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20702300/b1/en/front/20702300_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20780988002_EA",
+        "productName": "Single Serve Pods, One Love Medium Roast",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20780988002/b1/en/front/20780988002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.99
+      },
+      {
+        "id": "20662676_EA",
+        "productName": "Nabob Swiss Hazelnut",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20662676/b1/en/front/20662676_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.99
+      },
+      {
+        "id": "21027416_EA",
+        "productName": "Dark Milk Chocolate With Hazelnut Pieces",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21027416/b1/en/front/21027416_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "21028404_EA",
+        "productName": "Dark Milk Chocolate With Caramel",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21028404/b1/en/front/21028404_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "21012467_EA",
+        "productName": "Ultra Lavender Dishwashing Liquid",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21012467/b1/en/front/21012467_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "21027495_EA",
+        "productName": "Dark Milk Chocolate",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21027495/b1/en/front/21027495_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20293336001_EA",
+        "productName": "Van Houtte Original House Blend Medium Roast",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20293336001/b1/en/front/20293336001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 9.99
+      },
+      {
+        "id": "20731265_EA",
+        "productName": "Sir Kensington's Chipotle Mayonnaise",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20731265/b1/en/front/20731265_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.99
+      }
+    ]
+  },
+  {
+    "food_id": "lamb34",
+    "derived_food_item": "lamb",
+    "products": [
+      {
+        "id": "20010327_EA",
+        "productName": "Lean Ground Lamb",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20010327/b1/en/front/20010327_front_a01.png",
+        "baseUnit": "ea",
+        "price": 11.49
+      },
+      {
+        "id": "20660950_KG",
+        "productName": "Rack Of Lamb, Frenched",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20660950/b1/en/front/20660950_front_a01.png",
+        "baseUnit": "ea",
+        "price": 23.8
+      },
+      {
+        "id": "21024953_KG",
+        "productName": "Free From Australian Lamb Rosemary & Garlic Butterfly-style Boneless Leg of Lamb",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21024953/b1/en/front/21024953_front_a01.png",
+        "baseUnit": "ea",
+        "price": 13.76
+      },
+      {
+        "id": "20143053_EA",
+        "productName": "Goat Stew Meat, Bone In",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20143053/b1/en/front/20143053_front_a01.png",
+        "baseUnit": "ea",
+        "price": 19.79
+      },
+      {
+        "id": "20095326_EA",
+        "productName": "Lamb Sausage",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20095326/b1/en/front/20095326_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.99
+      },
+      {
+        "id": "20155407_KG",
+        "productName": "Fresh Rabbit",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20155407/b1/en/front/20155407_front_a01.png",
+        "baseUnit": "ea",
+        "price": 18.72
+      },
+      {
+        "id": "20840738_KG",
+        "productName": "Ontario Lamb Flank",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20840738/b1/en/front/20840738_front_a01.png",
+        "baseUnit": "ea",
+        "price": 7.61
+      },
+      {
+        "id": "20857356_KG",
+        "productName": "Ontario Lamb Shoulder Chop",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20857356/b1/en/front/20857356_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.64
+      },
+      {
+        "id": "20841474_KG",
+        "productName": "Lamb Shoulder Chops",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20841474/b1/en/front/20841474_front_a01.png",
+        "baseUnit": "ea",
+        "price": 8.94
+      }
+    ]
+  },
+  {
+    "food_id": "crust37",
+    "derived_food_item": "crust",
+    "products": [
+      {
+        "id": "20896528_EA",
+        "productName": "Thick Pizza Crust",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20896528/b1/en/front/20896528_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20896541_EA",
+        "productName": "Thin Pizza Crust",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20896541/b1/en/front/20896541_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20896525_EA",
+        "productName": "Multigrain Thin Pizza Crusts",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20896525/b1/en/front/20896525_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.99
+      },
+      {
+        "id": "20607941_EA",
+        "productName": "Yeast, Pizza Crust",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20607941/b1/en/front/20607941_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20609988_EA",
+        "productName": "Pizza Crusts",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20609988/b1/en/front/20609988_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20754739_EA",
+        "productName": "Rising Crust Deluxe",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20754739/b1/en/front/20754739_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20317832002_EA",
+        "productName": "Pizza Crust",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20317832002/b1/en/front/20317832002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      },
+      {
+        "id": "21049863_EA",
+        "productName": "Noodle Crusted Pollock",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21049863/b1/en/front/21049863_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.5
+      },
+      {
+        "id": "21050233_EA",
+        "productName": "Three Cheese Crusted Pollock",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21050233/b1/en/front/21050233_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.5
+      }
+    ]
+  },
+  {
+    "food_id": "tomato38",
+    "derived_food_item": "tomato",
+    "products": [
+      {
+        "id": "20840038001_EA",
+        "productName": "Grape Tomatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20840038001/b1/en/front/20840038001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20426141001_KG",
+        "productName": "Beefsteak Tomatoes, Red",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20426141001/b1/en/front/20426141001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.18
+      },
+      {
+        "id": "21068372001_EA",
+        "productName": "Vero Tomato",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21068372001/b1/en/front/21068372001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "21046464001_EA",
+        "productName": "Cherry Tomato",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21046464001/b1/en/front/21046464001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "20026703001_KG",
+        "productName": "On The Vine Tomatoes (1 Bunch)",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20026703001/b1/en/front/20026703001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.12
+      },
+      {
+        "id": "20424953_EA",
+        "productName": "Organic Cocktail Tomatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20424953/b1/en/front/20424953_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.79
+      },
+      {
+        "id": "21089853001_EA",
+        "productName": "Axiany Tomatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21089853001/b1/en/front/21089853001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "21094419001_EA",
+        "productName": "Tomberry Tomatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21094419001/b1/en/front/21094419001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20186075002_EA",
+        "productName": "Tomato Paste, Garlic",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20186075002/b1/en/front/20186075002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.09
+      }
+    ]
+  },
+  {
+    "food_id": "potatoes41",
+    "derived_food_item": "potatoes",
+    "products": [
+      {
+        "id": "20600999001_EA",
+        "productName": "Red Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20600999001/b1/en/front/20600999001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.49
+      },
+      {
+        "id": "20601020001_EA",
+        "productName": "Russet Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20601020001/b1/en/front/20601020001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20827037_EA",
+        "productName": "Mini Sweet Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20827037/b1/en/front/20827037_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.99
+      },
+      {
+        "id": "20647918_EA",
+        "productName": "Gold Fingerling Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20647918/b1/en/front/20647918_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      },
+      {
+        "id": "20125267_EA",
+        "productName": "Mixed Little Gems Mixed Mini Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20125267/b1/en/front/20125267_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.5
+      },
+      {
+        "id": "20035921_EA",
+        "productName": "Golden Little Gems Yellow Mini Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20035921/b1/en/front/20035921_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.5
+      },
+      {
+        "id": "20078939_EA",
+        "productName": "Ruby Little Gems Red Mini Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20078939/b1/en/front/20078939_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.5
+      },
+      {
+        "id": "20127708001_KG",
+        "productName": "Sweet Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20127708001/b1/en/front/20127708001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20063146001_EA",
+        "productName": "Russet Potatoes",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20063146001/b1/en/front/20063146001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "food_id": "sodium42",
+    "derived_food_item": "sodium",
+    "products": [
+      {
+        "id": "20322348001_EA",
+        "productName": "Broth, Chicken Low Sodium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20322348001/b1/en/front/20322348001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.59
+      },
+      {
+        "id": "21101914_EA",
+        "productName": "Sodium Phosphates Enema USP Regular",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21101914/b1/en/front/21101914_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.99
+      },
+      {
+        "id": "20298997008_EA",
+        "productName": "Potato Chips, Low Sodium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20298997008/b1/en/front/20298997008_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.29
+      },
+      {
+        "id": "20102353002_EA",
+        "productName": "Reduced Sodium Soya Sauce",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20102353002/b1/en/front/20102353002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20984241_EA",
+        "productName": "Low Sodium Chicken Broth Powder",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20984241/b1/en/front/20984241_front_a01.png",
+        "baseUnit": "ea",
+        "price": 4.29
+      },
+      {
+        "id": "21032648_EA",
+        "productName": "Triscuit Crackers, Low Sodium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21032648/b1/en/front/21032648_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.49
+      },
+      {
+        "id": "20015907_EA",
+        "productName": "Less Sodium Soy Sauce",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20015907/b1/en/front/20015907_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.99
+      },
+      {
+        "id": "20162177003_EA",
+        "productName": "Garden Cocktail, Low Sodium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20162177003/b1/en/front/20162177003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.99
+      },
+      {
+        "id": "20182121003_EA",
+        "productName": "Garden Cocktail, Low Sodium",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20182121003/b1/en/front/20182121003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 3.79
+      }
+    ]
+  },
+  {
+    "food_id": "salt44",
+    "derived_food_item": "salt",
+    "products": [
+      {
+        "id": "20887607002_EA",
+        "productName": "Sea Salt",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20887607002/b1/en/front/20887607002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 0.99
+      },
+      {
+        "id": "20984618_EA",
+        "productName": "Cream of Chicken, No Salt Added",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20984618/b1/en/front/20984618_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.39
+      },
+      {
+        "id": "21024447_EA",
+        "productName": "Crushed Tomatoes. No Salt Added",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21024447/b1/en/front/21024447_front_a01.png",
+        "baseUnit": "ea",
+        "price": 1.79
+      },
+      {
+        "id": "20033620010_EA",
+        "productName": "Sauce Mix, 3 Peppercorn",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20033620010/b1/en/front/20033620010_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "20033620006_EA",
+        "productName": "Gravy Mix, Poutine",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20033620006/b1/en/front/20033620006_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "20033620003_EA",
+        "productName": "Ragout Sauce Mix",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20033620003/b1/en/front/20033620003_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "20033620015_EA",
+        "productName": "Hot Chicken Sandwich Homestyle Gravy Mix",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20033620015/b1/en/front/20033620015_front_a01.png",
+        "baseUnit": "ea",
+        "price": 2.29
+      },
+      {
+        "id": "20701904_EA",
+        "productName": "Salt Free Salt Substitute",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20701904/b1/en/front/20701904_front_a01.png",
+        "baseUnit": "ea",
+        "price": 6.49
+      },
+      {
+        "id": "20323596001_EA",
+        "productName": "Sea Salt, Fine Crystal",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20323596001/b1/en/front/20323596001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.79
+      }
+    ]
+  },
+  {
+    "food_id": "day45",
+    "derived_food_item": "day",
+    "products": [
+      {
+        "id": "21084821_EA",
+        "productName": "Hand Soap, Lilac",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21084821/b1/en/front/21084821_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "20305251004_EA",
+        "productName": "Multi-Vitamins, Men 50+",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20305251004/b1/en/front/20305251004_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "20305251001_EA",
+        "productName": "Multi-Vitamins, Women 50+",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20305251001/b1/en/front/20305251001_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "20305251002_EA",
+        "productName": "Multi-Vitamins, Women's",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20305251002/b1/en/front/20305251002_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "21044751_EA",
+        "productName": "Powder, Value Pack",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21044751/b1/en/front/21044751_front_a01.png",
+        "baseUnit": "ea",
+        "price": 38.99
+      },
+      {
+        "id": "20359177_EA",
+        "productName": "Fruiti-ssentials Gummies",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/20359177/b1/en/front/20359177_front_a01.png",
+        "baseUnit": "ea",
+        "price": 12.99
+      },
+      {
+        "id": "21085567_EA",
+        "productName": "Dish Soap, Lilac",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21085567/b1/en/front/21085567_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.49
+      },
+      {
+        "id": "21046918_EA",
+        "productName": "Lemon Verbena Scent Dish Soap",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21046918/b1/en/front/21046918_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      },
+      {
+        "id": "21046902_EA",
+        "productName": "Basil Scent Multi-Surface Everyday Cleaner",
+        "primaryImage": "https://assets.shop.loblaws.ca/products/21046902/b1/en/front/21046902_front_a01.png",
+        "baseUnit": "ea",
+        "price": 5.99
+      }
+    ]
+  }
+]

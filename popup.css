@@ -1,0 +1,303 @@
+@font-face{
+  font-family: 'Univers';
+  src: url('./fonts/UniversBlack.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers Light';
+  src: url('./fonts/Univers-light-normal.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers LTS';
+  src: url('./fonts/UniversLTStd.otf') format('truetype');
+}
+
+body {
+  font: 'Univers';
+  font-size: 15px;
+  margin: 0;
+  width: 400px;
+}
+
+h1 {
+  color: #FFFFFF;;
+  font-family: Univers, sans-serif;
+  font-size: 20px;
+  font-stretch: condensed;
+}
+
+h2 {
+  color: #000000;
+  font-family: Univers, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  font-stretch: condensed;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 70px;
+  text-align: center;
+}
+
+h3 {
+  color: #000000;
+  font-family: Univers, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: condensed;
+  margin-left: 10px;
+}
+
+table {
+  border-collapse:collapse;
+  width: 350px;
+}
+
+td{
+  text-align:"left";
+  padding: 10px;
+}
+
+.overlay {
+  display: block;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 500px;
+  padding: 20px;
+  margin: -40px 0 0 -270px;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+  color: #FFF;
+  font: 1.5em/1.2 Helvetica Neue, sans-serif;
+  transition: all 1.0s ease;
+  transform: scale(0);
+}
+
+.overlay a {
+  color:  #FFF;
+}
+
+.overlay.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.header {
+  height: 60px;
+  width: 410px;
+  background-color: #000000;
+  padding: 15px 15px 10px 15px;
+}
+
+.loblawsLogo{
+  width: 20vw;
+  height: auto;
+}
+
+.text-holder {
+  width: 400px;
+  height: 30px;
+  background-color: #DBDBDB;
+  padding: 10px;
+}
+
+.loader-body {
+  width: 400px;
+  height: 400px;
+  background-color: #DBDBDB;
+  padding: 10px;
+}
+
+.food-item-holder {
+  width: 380px;
+  padding: 10px;
+  background-color: #FFFFFF;
+  height: 157px;
+}
+
+.divider {
+  height: 1px;
+  width: 400px;
+  background-color: #DBDBDB;
+}
+
+.add-cart-button {
+  height: 44px;
+  width: 100vw;
+  background-color: #A7A924;
+  display: flex;
+}
+
+.text {
+  width: 395px;
+  color: #FFFFFF;
+  font-family: Univers, sans-serif;
+  font-size: 14px;
+  line-height: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-stretch: condensed;
+}
+
+.item-container {
+  width: 212px;
+  height: 41px;
+  margin-left: 10px;
+}
+
+.item-title {
+  font-family: Univers, sans-serif;
+  font-size: 14px;
+  color: #000000;
+  font-stretch: condensed;
+  font-weight: 400;
+
+}
+
+.item-recommended {
+  font-family: Univers, sans-serif;
+  font-size: 12px;
+  color: #DBDBDB;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.list-banner{
+  background-color: #EFEFEF;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  padding: 20px 10px;
+}
+
+.description{
+  width: 70vw;
+  font-size: 12.5px;
+  line-height: 150%;
+  font: ultra-condensed;
+}
+
+.button-container{
+  /* margin: 0 auto; */
+  position: relative;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5vh;
+}
+
+.substitute{
+  position: absolute;
+  left: 0px;
+  width: 100px;
+  color: #A7A924;
+  font-weight: 500;
+  font-stretch: narrower;
+}
+
+input[type="text"]{
+  color: #A7A924;
+  font-size: 13px;
+  font-weight: 700;
+  font-stretch: narrower;
+}
+
+
+.itemCounter{
+  position: absolute;
+  right: 0px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  width: auto;
+}
+
+#counter-box0, #counter-box1, #counter-box2{
+  width: 25px;
+  height: 30px;
+  text-align: center;
+}
+
+.counter-button{
+  padding: 0 5px;
+  width:5vw;
+}
+
+.productImg{
+  width:10vw;
+  height:auto;
+}
+
+.loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #A7A924;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 }
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom {
+  from{ bottom:-100px; opacity:0 }
+  to{ bottom:0; opacity:1 }
+}
+
+/* SUCCESS PAGE */
+
+.success-dialog {
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+}
+
+.go-to-cart-button {
+  height: 44px;
+  width: 100vw;
+  background-color: #A7A924;
+  display: flex;
+}
+
+.loblawsSuccessLogo{
+  width: 60vw;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 70px;
+}

@@ -1,0 +1,50 @@
+@font-face{
+  font-family: 'Univers';
+  src: url('../fonts/UniversBlack.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers Light';
+  src: url('../fonts/Univers-light-normal.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers LTS';
+  src: url('../fonts/UniversLTStd.otf') format('truetype');
+}
+
+/* .header { */
+    /* background-color: #000000; */
+    /* padding-left: 5%; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* right: 0; */
+    /* left: 0; */
+    /* overflow: hidden; */
+/* } */
+
+.header {
+  height: 60px;
+  width: 410px;
+  background-color: #000000;
+  padding: 15px 15px 10px 15px;
+}
+
+
+.recipe-title{
+    color: white;
+    font: Univers, sans-serif;
+    padding-top: 15%;
+}
+
+.loblaws-logo{
+    width: 25%;
+    height: 25%;
+}
+
+h1 {
+  color: #FFFFFF;;
+  font-family: Univers, sans-serif;
+  font-size: 20px;
+  font-stretch: condensed;
+}

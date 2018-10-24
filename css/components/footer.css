@@ -1,0 +1,41 @@
+@font-face{
+  font-family: 'Univers';
+  src: url('../fonts/UniversBlack.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers Light';
+  src: url('../fonts/Univers-light-normal.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers LTS';
+  src: url('../fonts/UniversLTStd.otf') format('truetype');
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  overflow:hidden;
+}
+
+.add-cart-button {
+  width: 100%;
+  background-color: #A7A924;
+  color: white;
+  height: 44px;
+  display:flex;
+}
+
+.text {
+  width: 395px;
+  color: #FFFFFF;
+  font-family: Univers, sans-serif;
+  font-size: 14px;
+  line-height: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-stretch: condensed;
+}

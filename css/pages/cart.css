@@ -1,0 +1,248 @@
+@font-face{
+  font-family: 'Univers';
+  src: url('../fonts/UniversBlack.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers Light';
+  src: url('../fonts/Univers-light-normal.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'Univers LTS';
+  src: url('../fonts/UniversLTStd.otf') format('truetype');
+}
+
+h4 {
+  color: #000000;
+  font-family: Univers, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: condensed;
+  margin-left: 10px;
+}
+
+/* table {
+  border-collapse: collapse;
+
+} */
+.cart-title {
+  background-color: #DBDBDB;
+  top: 15%;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
+.productImg{
+  width:80%;
+  height:auto;
+}
+
+.substitute-img{
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.button-container{
+  /* margin: 0 auto; */
+  position: relative;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5vh;
+}
+
+.substitute{
+  position: absolute;
+  left: 2.5px;
+  width: 100px;
+  color: #A7A924;
+  font-weight: 500;
+  font-stretch: narrower;
+}
+
+.substitute-link{
+  position: absolute;
+  right: 5px;
+  width: 100px;
+  color: #A7A924;
+  font-weight: 500;
+  font-size: 14px;
+  font-stretch: narrower;
+  margin-top: -10px;
+}
+
+.return-to-cart{
+  position: absolute;
+  width: 200px;
+  color: #A7A924;
+  font-weight: 500;
+  font-stretch: narrower;
+}
+
+.recommended-item {
+  font-family: Univers, sans-serif;
+  font-size: 12px;
+  color: #DBDBDB;
+  font-weight: 300;
+  padding-top: 30px;
+  padding-bottom: 5px;
+}
+
+.counter-button{
+  padding: 0 5px;
+  width:5vw;
+}
+
+.cart-title-content {
+  background-color: #DBDBDB;
+  margin-left: 5%;
+  padding:10px;
+}
+
+.cart-list-contents {
+  position: absolute;
+  top: 30%;
+  bottom: 5%;
+  overflow: auto;
+  padding-left: 25px;
+}
+
+.substitutes-items {
+  top: 20%;
+  position: absolute;
+  overflow: auto;
+  bottom: 5%;
+  display: none;
+}
+
+.substitutes-items-content {
+  margin-top:25px;
+  margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: 122px 122px 122px;
+  width: auto;
+  padding: 10px 0px;
+}
+
+.body-chrome-extension {
+  width: 400px;
+  height: 400px;
+}
+
+/* #counter-box0, #counter-box1, #counter-box2{ */
+  /* width: 25px; */
+  /* height: 30px; */
+  /* text-align: center; */
+/* } */
+
+input[id^='counter-box'] {
+  width: 25px;
+  height: 30px;
+  text-align: center; 
+}
+
+.description{
+  width: 70vw;
+  font-size: 12.5px;
+  line-height: 150%;
+  font: ultra-condensed;
+}
+
+.price{
+  position: absolute;
+  color: black;
+  left:1px;
+  padding-top: 10px;
+}
+
+.item{
+  color: black;
+}
+
+.itemCounter{
+    position: absolute;
+    right:5px;
+    padding-bottom: 2px;
+    /* top: 3em; */
+}
+
+.item-title {
+  position: absolute;
+  left: 8px;
+  font-family: Univers, sans-serif;
+  font-size: 14px;
+  color: #000000;
+  font-stretch: condensed;
+  font-weight: 400;
+  border-bottom: 2px solid #A7A924;
+}
+
+.divider {
+  margin-top:8px;
+  margin-bottom: 12px;
+  height: 1px;
+  width: 400px;
+  background-color: #DBDBDB;
+}
+
+input[type="text"]{
+  color: #A7A924;
+  font-size: 13px;
+  font-weight: 700;
+  font-stretch: narrower;
+}
+
+.substitute-item-desc{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 5px;
+    border-color: grey;
+    background: white;
+}
+
+.substitute-item-container{
+    padding:0px 3px;
+    margin-bottom: 6px;
+}
+
+.substitute-item-name {
+  font-family: Univers, sans-serif;
+  font-size: 11px;
+  color: #000000;
+  font-stretch: condensed;
+  font-weight: 400;
+  overflow:hidden;
+  height:30px;
+  /* white-space:nowrap; */
+  text-overflow:ellipsis;
+
+}
+
+.substitute-item-price {
+  font-family: Univers, sans-serif;
+  font-size: 14px;
+  color: #000000;
+  font-stretch: condensed;
+  font-weight: 400;
+}
+
+.select-substitute-link{
+  -moz-appearance: button;
+  appearance: button;
+  background: white;
+  text-decoration: none;
+  color: white;
+}
+
+/* .substitute-item-image { */
+  /* width:50px; */
+  /* height:auto; */
+/* } */

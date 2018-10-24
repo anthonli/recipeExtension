@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Recipe AI",
+  "description": "Parsing contents from the page to display all the possible ingredients",
+  "version": "1",
+  "browser_action": {
+    "default_title": "RecipeAI",
+    "default_icon": "assets/img/icon.png",
+    "default_popup": "cart/index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "browsingData",
+    "https://www.google.com/",
+    "http://www.google.com/",
+    "https://www.google.ca/"
+  ]
+}

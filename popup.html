@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+    <script src="jquery-3.3.1.min.js"></script>
+    <link href="popup.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="header" id="loblaws-header">
+      <img src="./assets/Loblaws.png" class="loblawsLogo"/>
+      <h1>RECIPE</h1>
+    </div>
+
+    <div class = "loader-body" id = "loader-body">
+      <div class="loader" id="loader"> </div>
+      <h3> Reading website content... </h3>
+    </div>
+
+    <div class = "extension-body" id="extension-body">
+      <div class="text-holder">
+        <h3>Here are the relevant produce and items from this site: </h3>
+      </div>
+
+      <div id="recipeItems">
+      </div>
+      <button class="add-cart-button" id="button">
+        <div class="text">
+          ADD ALL TO CART
+        </div>
+      </button>
+    </div>
+
+    <div class = "success-page" id = "success-page">
+      <div class = "success-dialog" id="success-dialog">
+        <h2> SUCCESSFULLY ADDED ITEMS TO CART! </h2>
+      </div>
+      <button class="go-to-cart-button" id="button">
+        <div class = "text">
+          GO TO CHECKOUT
+        </div>
+      </button>
+    </div>
+
+    <script type="text/javascript" src="popup.js"></script>
+  </body>
+
+</html>
